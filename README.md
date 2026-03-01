@@ -7,7 +7,7 @@
 
   <!-- Badges -->
   <p>
-    <a href="../../releases"><img src="https://img.shields.io/github/v/release/yourusername/yourrepo?style=for-the-badge&color=blue" alt="Latest Release"></a>
+    <a href="../../releases"><img src="(https://img.shields.io/github/v/release/Krishna307dev/TriBot-X?style=for-the-badge&color=blue)](https://github.com/Krishna307dev/TriBot-X/releases" alt="Latest Release"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License"></a>
     <img src="https://img.shields.io/badge/Platform-Android_|_Arduino-orange.svg?style=for-the-badge" alt="Platform">
   </p>
