@@ -72,3 +72,21 @@ To download the compiled `.apk` for the Android App or grab the latest stable re
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+## 🔑 Keywords
+
+ -Arduino Robot Car
+ -HC-05 Bluetooth Robot
+ -Obstacle Avoidance Robot
+ -Human Following Robot
+ -Android Bluetooth Controller
+ -Arduino Robot Car Project
+ -HC-05 Bluetooth Robot Car
+ -Multi Mode Robot Car
+ -Obstacle Avoidance Robot using Ultrasonic Sensor
+ -Human Following Robot using Arduino
+ -Android Bluetooth Controller App
+ -DIY Arduino Robotics Project
+ -Arduino Based Smart Robot
+ -L298N Motor Driver Robot Car
+ -Robotics Project for School Exhibition
